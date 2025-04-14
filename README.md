@@ -1,20 +1,28 @@
 # Olá, sou Arthur Calixto Silva! 👋
 
-💻 Auxiliar de Infraestrutura de TI na Usina Cerradão 
+💻 Auxiliar de Infraestrutura de TI na Usina Cerradão
 
-🎯 Atuando com suporte técnico, helpdesk e manutenção de equipamentos 
+🎯 Atuo com suporte técnico e manutenção, mas venho focando também em desenvolvimento web e automação.
 
-⚙️ Automação de tarefas com PowerShell e CMD 
+👨‍💻 Em aprendizado contínuo de:
 
-📡 Monitoramento de rede e impressoras com Zabbix, Grafana e SNMP 
+HTML, CSS, JavaScript e TypeScript
 
-🖥️ Experiência com formatação e configuração de desktops e switches 
+Node.js (Express)
 
-🛒 Responsável por aquisição de equipamentos para o setor de TI 
+PostgreSQL e MySQL
 
-🌐 Conhecimentos em redes TCP/IP e infraestrutura 
+Git, GitHub e boas práticas de versionamento
 
-🔍 Sempre buscando aprender mais e aplicar soluções que tornem o ambiente de TI mais eficiente, confiável e automatizado. 
+⚙️ Experiência sólida com automação de tarefas usando PowerShell e CMD
+
+📡 Vivência com Zabbix, Grafana e SNMP para monitoramento de redes e impressoras
+
+🔧 Conhecimento prático em formatação, configuração de desktops e switches
+
+🛒 Responsável pela aquisição de equipamentos do setor de TI
+
+💡 Busco aplicar soluções inteligentes que otimizem processos e conectem infraestrutura e desenvolvimento, contribuindo para um ambiente de TI mais eficiente e automatizado.
 
 
 ---
