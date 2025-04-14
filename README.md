@@ -6,13 +6,13 @@
 
 👨‍💻 Em aprendizado contínuo de:
 
-HTML, CSS, JavaScript e TypeScript
+  => HTML, CSS, JavaScript e TypeScript
 
-Node.js (Express)
+  => Node.js (Express)
 
-PostgreSQL e MySQL
+  => PostgreSQL e MySQL
 
-Git, GitHub e boas práticas de versionamento
+  => Git, GitHub e boas práticas de versionamento
 
 ⚙️ Experiência sólida com automação de tarefas usando PowerShell e CMD
 
