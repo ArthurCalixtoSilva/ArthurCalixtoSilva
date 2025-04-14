@@ -17,11 +17,6 @@
 🔍 Sempre buscando aprender mais e aplicar soluções que tornem o ambiente de TI mais eficiente, confiável e automatizado. 
 
 
-### 📊 **Linguagens mais usadas**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCalixtoSilva&layout=compact&theme=dark)
-
-
 ---
 
 ### 📫 **Contatos**
