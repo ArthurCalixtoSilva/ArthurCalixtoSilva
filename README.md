@@ -14,7 +14,7 @@
 
   => Git, GitHub e boas práticas de versionamento
 
-⚙️ Experiência sólida com automação de tarefas usando PowerShell e CMD
+⚙️ Automações básicas de tarefas usando PowerShell e CMD
 
 📡 Vivência com Zabbix, Grafana e SNMP para monitoramento de redes e impressoras
 
