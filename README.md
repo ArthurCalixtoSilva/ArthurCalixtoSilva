@@ -10,7 +10,7 @@
 
   => Node.js (Express)
 
-  => PostgreSQL e MySQL
+  => Gerenciamento de Banco de Dados
 
   => Git, GitHub e boas práticas de versionamento
 
